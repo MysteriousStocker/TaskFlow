@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Real-time task management board with Kanban workflow, calendar scheduling, analytics, and secure authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

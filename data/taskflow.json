@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "usr_anand_001",
+      "fullName": "Anand Sagai David",
+      "email": "310625104024@eec.srmrmp.edu.in",
+      "passwordHash": "$2b$10$1hawcnEJwtDqWaTeuyTpLetlIXXYNSw1GnuXL24h1g5l8RlnC9ENy",
+      "role": "ADMIN",
+      "createdAt": "2026-09-20T04:40:38.760Z",
+      "lastLoginAt": "2026-09-21T00:09:12.402Z"
+    },
+    {
+      "id": "usr_demo_002",
+      "fullName": "Demo Reviewer",
+      "email": "demo@taskflow.dev",
+      "passwordHash": "$2b$10$dAqId5bp1/s2Q8H1Xa6hV.5QM828LPkkNiSg1eVjGZh/ZjdWPB9dG",
+      "role": "USER",
+      "createdAt": "2026-09-20T04:40:38.760Z",
+      "lastLoginAt": null
+    }
+  ],
+  "tasks": [],
+  "activities": [
+    {
+      "id": "act_muahmnkj_a8pu",
+      "userId": "usr_anand_001",
+      "userEmail": "310625104024@eec.srmrmp.edu.in",
+      "userName": "Anand Sagai David",
+      "action": "LOGIN",
+      "details": "Signed in to workspace",
+      "timestamp": "2026-09-21T00:09:12.403Z"
+    },
+    {
+      "id": "act_muahmluh_gbio",
+      "userId": "usr_anand_001",
+      "userEmail": "310625104024@eec.srmrmp.edu.in",
+      "userName": "Anand Sagai David",
+      "action": "PASSWORD_RESET",
+      "details": "Password was successfully updated via verification reset code",
+      "timestamp": "2026-09-21T00:09:10.169Z"
+    },
+    {
+      "id": "act_001",
+      "userId": "usr_anand_001",
+      "userEmail": "310625104024@eec.srmrmp.edu.in",
+      "userName": "Anand Sagai David",
+      "action": "LOGIN",
+      "details": "Administrator signed in to workspace",
+      "timestamp": "2026-09-20T17:00:00.000Z"
+    }
+  ]
+}
